@@ -1,0 +1,25 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form-container {
+    margin-bottom: 20px;
+  }
+  
+  #entriesList {
+    margin-top: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .card img {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
